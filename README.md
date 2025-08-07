@@ -145,7 +145,7 @@ Sitemap: https://yourwebsite.com/sitemap.xml
 ## 📩 Contact
 
 📧 **Email:** [sujalthakurofficial.tech@gmail.com](sujalthakurofficial.tech@gmail.com)  
-🔗 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
+🔗 **Portfolio:** [https://sujalcodes.pages.dev/](https://sujalcodes.pages.dev/)
 🐙 **GitHub:** [https://github.com/techbro815](https://github.com/techbro815)  
 📷 **LinkedIn:** [https://www.linkedin.com/in/sujal-thakur-317257287/](https://www.linkedin.com/in/sujal-thakur-317257287/)
 
