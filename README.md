@@ -1,12 +1,12 @@
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-# 🚀 Sujal Thakur - D Portfolio Website
+# 🚀 Sujal Thakur - Portfolio Website
 
 Welcome to my **interactive 3D portfolio website**, crafted using modern web technologies to provide a visually immersive experience. Explore my skills, projects, and professional journey in an engaging way!
 
 ## 📌 Live Demo
 
-🔗 **[View Live Website](https://yourwebsite.com)** _(Replace with actual URL after deployment)_
+🔗 **[View Live Website](https://sujalcodes.pages.dev/))** 
 
 ---
 
